@@ -31,7 +31,7 @@
                 />
   </url><url>
     <loc>https://shahadatmiazi.github.io/tags/academic/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -44,50 +44,8 @@
                 href="https://shahadatmiazi.github.io/tags/academic/"
                 />
   </url><url>
-    <loc>https://shahadatmiazi.github.io/tags/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://shahadatmiazi.github.io/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://shahadatmiazi.github.io/tags/"
-                />
-  </url><url>
-    <loc>https://shahadatmiazi.github.io/publication/01/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://shahadatmiazi.github.io/en/publication/01/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://shahadatmiazi.github.io/publication/01/"
-                />
-  </url><url>
-    <loc>https://shahadatmiazi.github.io/publication/</loc>
-    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://shahadatmiazi.github.io/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://shahadatmiazi.github.io/publication/"
-                />
-  </url><url>
     <loc>https://shahadatmiazi.github.io/post/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -101,7 +59,7 @@
                 />
   </url><url>
     <loc>https://shahadatmiazi.github.io/tags/hugo-blox/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -115,7 +73,7 @@
                 />
   </url><url>
     <loc>https://shahadatmiazi.github.io/tags/markdown/</loc>
-    <lastmod>2025-03-09T00:00:00+00:00</lastmod>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -126,6 +84,56 @@
                 rel="alternate"
                 hreflang="ru-ru"
                 href="https://shahadatmiazi.github.io/tags/markdown/"
+                />
+  </url><url>
+    <loc>https://shahadatmiazi.github.io/tags/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://shahadatmiazi.github.io/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://shahadatmiazi.github.io/tags/"
+                />
+  </url><url>
+    <loc>https://shahadatmiazi.github.io/post/02/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shahadatmiazi.github.io/publication/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://shahadatmiazi.github.io/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://shahadatmiazi.github.io/publication/"
+                />
+  </url><url>
+    <loc>https://shahadatmiazi.github.io/publication/02/</loc>
+    <lastmod>2025-03-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://shahadatmiazi.github.io/publication/01/</loc>
+    <lastmod>2025-03-10T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://shahadatmiazi.github.io/en/publication/01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru-ru"
+                href="https://shahadatmiazi.github.io/publication/01/"
                 />
   </url><url>
     <loc>https://shahadatmiazi.github.io/post/01/</loc>
