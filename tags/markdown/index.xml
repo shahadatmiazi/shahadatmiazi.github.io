@@ -5,12 +5,29 @@
     <link>https://shahadatmiazi.github.io/tags/markdown/</link>
       <atom:link href="https://shahadatmiazi.github.io/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
     <description>Markdown</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Fri, 21 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shahadatmiazi.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Markdown</title>
       <link>https://shahadatmiazi.github.io/tags/markdown/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://shahadatmiazi.github.io/post/03/</link>
+      <pubDate>Wed, 02 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://shahadatmiazi.github.io/post/03/</guid>
+      <description>&lt;h1 id=&#34;-обзор-прошедшей-недели--компьютерные-науки&#34;&gt;🧭 Обзор прошедшей недели — Компьютерные науки&lt;/h1&gt;
+&lt;p&gt;Неделя прошла в рабочем ритме — без перегрузки, но с фокусом на конкретные задачи:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧮 Продолжили изучать структуры данных — особое внимание спискам, очередям и стеку, с реализацией на C++.&lt;/li&gt;
+&lt;li&gt;🔄 На курсе по алгоритмам — поиск в ширину и глубину, плюс задачи на графы.&lt;/li&gt;
+&lt;li&gt;💾 Практика по системному программированию: начали разбирать работу с файлами на уровне POSIX.&lt;/li&gt;
+&lt;li&gt;📑 В рамках подготовки к защите разбирали, как грамотно писать отчёты: структура, аргументация, чёткие формулировки.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Общий фокус недели — &lt;strong&gt;на чистоте кода и ясности изложения&lt;/strong&gt;. Полезно не только для учёбы, но и в целом для развития как разработчика.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
