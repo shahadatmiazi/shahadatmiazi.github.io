@@ -5,12 +5,27 @@
     <link>https://shahadatmiazi.github.io/tags/hugo-blox/</link>
       <atom:link href="https://shahadatmiazi.github.io/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
     <description>Hugo Blox</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 02 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 13 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://shahadatmiazi.github.io/media/icon_hu_645fa481986063ef.png</url>
       <title>Hugo Blox</title>
       <link>https://shahadatmiazi.github.io/tags/hugo-blox/</link>
     </image>
+    
+    <item>
+      <title>Моя неделя</title>
+      <link>https://shahadatmiazi.github.io/post/04/</link>
+      <pubDate>Sun, 13 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://shahadatmiazi.github.io/post/04/</guid>
+      <description>&lt;h1 id=&#34;-краткие-итоги-прошедшей-недели&#34;&gt;📌 Краткие итоги прошедшей недели&lt;/h1&gt;
+&lt;p&gt;Прошлая неделя была насыщенной и продуктивной:&lt;/p&gt;
+&lt;p&gt;✅ Завершили лабораторную по дискретной математике — наконец-то уложилось в голове, как работают булевы функции и схемы.&lt;br&gt;
+✅ Продолжили работу над курсовым проектом: выбрали стек технологий и наметили архитектуру.&lt;br&gt;
+✅ На парах по алгоритмам углубились в тему рекурсии и её оптимизации — было сложно, но очень интересно.&lt;br&gt;
+✅ В свободное время разобрался с GitHub Actions — теперь автодеплой проекта работает без сбоев.&lt;/p&gt;
+&lt;p&gt;На следующей неделе планирую сосредоточиться на доработке интерфейса для аналитической системы и начать подготовку к промежуточному зачёту. Работаем дальше! 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Моя неделя</title>
